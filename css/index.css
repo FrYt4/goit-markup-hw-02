@@ -88,7 +88,7 @@ color:var(--brand-color-navyblue);
 
 
    }
-   .hero.btn{
+   .hero-btn{
     background-color: var(--brand-color-iris) ;
     font-weight: 500 ;
     line-height: 1.5 ;
@@ -109,7 +109,7 @@ color:var(--brand-color-navyblue);
     font-weight: 500 ;
     color: var(--brand-color-navyblue) ;
     line-height: 1.2 ;
-    letter-spacing: 0.2em ;
+    letter-spacing: 0.02em ;
 
 }
 .important-text{
