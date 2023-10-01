@@ -17,7 +17,7 @@
   body{
   font-family:'roboto' , sans-serif;
   background-color:#FFFFFF ;
-  color: #2E2F42;
+  color: #434455;
   font-weight: 400;
  }    
             /*LOGO*/
@@ -178,6 +178,7 @@ display: inline;
 }
 
 .team-tittle{
+    color: #2E2F42;
     font-weight: 500;
     font-size: 50px;
     line-height: 1,2;
@@ -245,13 +246,11 @@ color:var(--brand-color-CLOUD);
     background-color: var(--brand-color-CORNFLOWER);
    }
     .all-btn{
-        background-color:var(--brand-color-iris);
+        background-color:#4D5AE5 ;
         color:var(--brand-color-CORNFLOWER);
         font-size: 16px;
         font-weight: 500;
         cursor: pointer;
-        border: none;
-        border-radius: 4px;
         height: 38px;
         padding: 0px 20px 0px 20px;
 }
@@ -259,9 +258,8 @@ color:var(--brand-color-CLOUD);
 .all-btn:hover:hover,
 .all-btn:focus:focus,
 .all-btn:active:active {
-    background-color:var(--brand-color-iris);
- }
-
+    background-color: #4D5AE5;
+}
  .project-item{
 background-color: var(--brand-color-CORNFLOWER);
 display: inline;
@@ -269,6 +267,7 @@ display: inline;
 
 
  .project-tittle{
+    color: var(--brand-color-navyblue);
     font-weight: 500;
     font-size: 20px;
     line-height: 15px;
@@ -276,7 +275,6 @@ display: inline;
  }
 
 .project-text{
-    color: var(--brand-color-slate);
     font-size:16px;
     letter-spacing: 0,02em;
     line-height: 24px;
@@ -290,7 +288,6 @@ margin-top: auto;
 }
 
 .address-item {
-color: var(--brand-color-slate);
 font-size: 16px;
 font-style: normal;
 line-height: 24px;
