@@ -199,10 +199,15 @@ color:var(--brand-color-CLOUD);
     cursor: pointer;
     }
     
-    .btn:hover,
+    .btn:hover{
+    color: #FFFFFF;
+    background-color: #404BBF;
+    }
     .btn:focus,
     .btn:active {
-    background-color: var(--brand-color-CORNFLOWER);
+color: #404BBF;
+background-color: #FFFFFF;
+
    }
     .all-btn{
         background-color:var(--brand-color-CLOUD) ;
