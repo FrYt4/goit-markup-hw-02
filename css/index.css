@@ -26,7 +26,7 @@
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0,03em;
+    letter-spacing: 0,03em ;
     text-transform: uppercase;
     color:var(--brand-color-iris);
     text-decoration: none;
@@ -50,51 +50,51 @@ color:var(--brand-color-navyblue);
 
 
 .menu-list{
-    list-style: none;
+    list-style: none ;
 }
 
     .menu-link {
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: 500;
+    text-decoration: none ;
+    font-size: 16px ;
+    font-weight: 500 ;
     color: var(--brand-color-navyblue);
-    line-height: 1,5;
-    letter-spacing: 0,02em;
-    text-decoration: none;
+    line-height: 1,5 ;
+    letter-spacing: 0,02em ;
+    text-decoration: none ;
     }
 
     .menu-link:hover,
     .menu-link:focus,
     .menu-link:active {
-    color: var(--brand-color-ocean);
+    color: var(--brand-color-ocean) ;
     }
                         
     
     
         /*HERO*/
      .hero{
-        background-color:var(--brand-color-navyblue);
+        background-color:var(--brand-color-navyblue) ;
         
      }
     .hero-title{
         color:var(--brand-color-white);
-        text-transform: uppercase;
-        font-size: 56px;
-        font-weight: 700;
-        line-height: 1.07;
+        text-transform: uppercase ;
+        font-size: 56px ;
+        font-weight: 700 ;
+        line-height: 1.07 ;
         letter-spacing: 0,02em ; 
-        text-align: center;
+        text-align: center ;
 
 
    }
    .hero.btn{
-    background-color: var(--brand-color-iris);
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0,04em;
-    color:var(--brand-color-white);
-    cursor: pointer;
-    font-size: 16px;
+    background-color: var(--brand-color-iris) ;
+    font-weight: 500 ;
+    line-height: 1.5 ;
+    letter-spacing: 0,04em ;
+    color:var(--brand-color-white) ;
+    cursor: pointer ;
+    font-size: 16px ;
      }
 
      .hero-btn:hover,
@@ -118,18 +118,18 @@ color:var(--brand-color-navyblue);
 }
                         /*WHAT ARE WE DOING OFFERT*/
 .studio-head{
-    font-size: 36px; 
+    font-size: 36px ; 
     line-height: 1,11 ;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: var(--brand-color-navyblue);
+    text-align: center ;
+    letter-spacing: 0.02em ;
+    text-transform: capitalize ;
+    color: var(--brand-color-navyblue) ;
 }
 
 
                         /*TEAM*/
 .team-section{
-    background-color: var(--brand-color-CLOUD);
+    background-color: var(--brand-color-CLOUD) ;
 
 
 }
@@ -139,32 +139,32 @@ color:var(--brand-color-navyblue);
     text-align: center ;
     letter-spacing: 0,02em ;
     text-transform: capitalize ;
-    color: var(--brand-color-navyblue);
+    color: var(--brand-color-navyblue) ;
     }
 
 .team-list{
-    background-color: var(--brand-color-white);
+    background-color: var(--brand-color-white) ;
 }
 
 .team-tittle{
-    color: #2E2F42;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1,2;
-    letter-spacing: 0,02em;
+    color: #2E2F42 ;
+    font-weight: 500 ;
+    font-size: 20px ;
+    line-height: 1,2 ;
+    letter-spacing: 0,02em ;
 }
 
 .team-text{
-    font-size: 16px;
-    line-height: 1,5;
-    letter-spacing: 0.02em;
+    font-size: 16px ;
+    line-height: 1,5 ;
+    letter-spacing: 0.02em ;
     }
 
                                              /* Footer*/
 .footer {
-    padding: 60px 0px 60px 215px;
-    background-color: var(--brand-color-navyblue);
-    color:var(--brand-color-iris);
+    padding: 60px 0px 60px 215px ;
+    background-color: var(--brand-color-navyblue) ;
+    color:var(--brand-color-iris) ;
 }
 
 
@@ -173,16 +173,16 @@ color:var(--brand-color-CLOUD);
 
 }
 .footer-logo{
-    font-family: "Raleway",sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1,17;
-    letter-spacing: 0,03em;
-    text-transform: uppercase;
+    font-family: "Raleway",sans-serif ;
+    font-weight: 800 ;
+    font-size: 18px ;
+    line-height: 1,17 ;
+    letter-spacing: 0,03em ;
+    text-transform: uppercase ;
 }
 .footer-text{
-    line-height: 1,5;
-    letter-spacing: 0.02em;
+    line-height: 1,5 ;
+    letter-spacing: 0.02em ;
     color:#F4F4FD
 }
 
@@ -191,14 +191,14 @@ color:var(--brand-color-CLOUD);
 }
                                             /*BUTTON*/
 .btn {
-    color: var(--brand-color-iris);
-    background-color: #E7E9FC;
-    height: 38px;
-    padding: 0px 20px 0px 20px;
-    font-size: 16px;
-    font-weight: 500;
+    color: var(--brand-color-iris) ;
+    background-color: #E7E9FC ;
+    height: 38px ;
+    padding: 0px 20px 0px 20px ;
+    font-size: 16px ;
+    font-weight: 500 ;
     border: none;
-    border-radius: 4px;
+    border-radius: 4px ;
     cursor: pointer;
     }
     
@@ -238,27 +238,28 @@ background-color: var(--brand-color-CORNFLOWER);
 
 
  .project-tittle{
-    color: var(--brand-color-navyblue);
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 15px;
-    letter-spacing: 0,02em;
+    color: var(--brand-color-navyblue) ;
+    font-weight: 500 ;
+    font-size: 20px ;
+    line-height: 1,2 ;
+    letter-spacing: 0,02em ;
  }
 
 .project-text{
     font-size:16px;
-    letter-spacing: 0,02em;
-    line-height: 24px;
+    letter-spacing: 0,02em ;
+    line-height: 1,5 ;
+
 }
 
                                                     /*ADRESS*/
 
 
 .address-item {
-font-size: 16px;
-font-style: normal;
-line-height: 1,5;
-letter-spacing: 0.02em;
+font-size: 16px ;
+font-style: normal ;
+line-height: 1,5 ;
+letter-spacing: 0.02em ;
 }
 
 .address-link {
@@ -270,7 +271,7 @@ text-decoration: none;
 .address-link:hover,
 .address-link:focus,
 .address-link:active {
-color: var(--brand-color-ocean);
+color: var(--brand-color-ocean) ;
 }
 
 
