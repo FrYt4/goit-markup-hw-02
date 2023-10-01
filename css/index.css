@@ -221,6 +221,11 @@ color:var(--brand-color-CLOUD);
     background-color: #FFFFFF;
 }
 
+
+.project-list{
+list-style: none ;
+}
+
 .project-head{
 font-weight: 500 ;
 font-style: 20px ;
