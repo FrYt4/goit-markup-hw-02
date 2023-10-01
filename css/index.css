@@ -162,7 +162,6 @@ color:var(--brand-color-navyblue);
 
                                              /* Footer*/
 .footer {
-    padding: 60px 0px 60px 215px ;
     background-color: var(--brand-color-navyblue) ;
     color:var(--brand-color-iris) ;
 }
@@ -194,11 +193,8 @@ color:var(--brand-color-CLOUD);
     color: var(--brand-color-iris) ;
     background-color: #E7E9FC ;
     height: 38px ;
-    padding: 0px 20px 0px 20px ;
     font-size: 16px ;
     font-weight: 500 ;
-    border: none;
-    border-radius: 4px ;
     cursor: pointer;
     }
     
