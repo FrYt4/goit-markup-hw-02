@@ -52,7 +52,6 @@ color:var(--brand-color-navyblue);
 
 
     .menu-link {
-    text-decoration: none ;
     font-size: 16px ;
     font-weight: 500 ;
     color: var(--brand-color-navyblue);
@@ -186,9 +185,6 @@ color:var(--brand-color-CLOUD);
     color:#F4F4FD
 }
 
-.btn-list{
-    font-style: none;
-}
                                             /*BUTTON*/
 .btn {
     color: var(--brand-color-iris) ;
