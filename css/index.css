@@ -233,24 +233,6 @@ background-color: #FFFFFF;
     background-color: #FFFFFF;
 }
 
-
-.project-list{
-list-style: none ;
-}
-
-.project-head{
-font-weight: 500 ;
-font-style: 20px ;
-line-height: 1.2 ;
-letter-spacing: 0.02em;
-color: var(--brand-color-navyblue);
-}
-
- .project-item{
-background-color: var(--brand-color-CORNFLOWER);
- }
-
-
  .project-tittle{
     color: var(--brand-color-navyblue) ;
     font-weight: 500 ;
@@ -262,7 +244,7 @@ background-color: var(--brand-color-CORNFLOWER);
 .project-text{
     font-size:16px;
     letter-spacing: 0,02em ;
-    line-height: 1.5 ;
+    line-height: 1,5 ;
 
 }
 
