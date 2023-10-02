@@ -194,8 +194,9 @@ color:var(--brand-color-CLOUD);
     font-weight: 500 ;
     cursor: pointer;
     font-family: "Roboto",sans-serif;
-    line-height: 1,5;
-    letter-spacing: 0,04em;
+    line-height: 1.5 ;
+    letter-spacing: 0.04em ;
+    background-color: #FFFFFF;
 
     }
     
@@ -233,14 +234,14 @@ background-color: #FFFFFF;
     color: var(--brand-color-navyblue) ;
     font-weight: 500 ;
     font-size: 20px ;
-    line-height: 1,2 ;
+    line-height: 1.2 ;
     letter-spacing: 0,02em ;
  }
 
 .project-text{
     font-size:16px;
     letter-spacing: 0,02em ;
-    line-height: 1,5 ;
+    line-height: 1.5 ;
 
 }
 
