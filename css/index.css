@@ -196,13 +196,12 @@ color:var(--brand-color-CLOUD);
     font-family: "Roboto",sans-serif;
     line-height: 1.5 ;
     letter-spacing: 0.04em ;
-    background-color: #FFFFFF;
 
     }
     
     .btn:hover
 {
-color: #404BBF;
+color: #FFFFFF;
 background-color: #FFFFFF;
 }
 .btn:focus,
@@ -235,12 +234,12 @@ background-color: #FFFFFF;
     font-weight: 500 ;
     font-size: 20px ;
     line-height: 1.2 ;
-    letter-spacing: 0,02em ;
+    letter-spacing: 0.02em ;
  }
 
 .project-text{
     font-size:16px;
-    letter-spacing: 0,02em ;
+    letter-spacing: 0.02em ;
     line-height: 1.5 ;
 
 }
