@@ -130,9 +130,13 @@ color:var(--brand-color-navyblue);
                         /*TEAM*/
 .team-section{
     background-color: var(--brand-color-CLOUD) ;
-
-
 }
+
+.team-link{
+    background-color: #FFFFFF;
+}
+
+
 .team-head{
     font-size: 36px ;
     line-height: 1.11 ;
