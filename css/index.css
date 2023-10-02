@@ -189,12 +189,14 @@ color:var(--brand-color-CLOUD);
                                             /*BUTTON*/
 .btn {
     color: var(--brand-color-iris) ;
-    background-color: #E7E9FC ;
-    height: 38px ;
+    background-color: #F4F4FD ;
     font-size: 16px ;
     font-weight: 500 ;
     cursor: pointer;
     font-family: "Roboto",sans-serif;
+    line-height: 1,5;
+    letter-spacing: 0,04em;
+
     }
     
     .btn:hover
@@ -252,6 +254,7 @@ font-size: 16px ;
 line-height: 1.5 ;
 letter-spacing: 0.02em ;
 text-decoration: none;
+color: #434455;
 }
 
 .list{
